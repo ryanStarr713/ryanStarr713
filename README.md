@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryanStarr713
 - 👀 I’m interested in Video Game Design
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a new Video Game
 - 📫 How to reach me ...
 
 <!---
